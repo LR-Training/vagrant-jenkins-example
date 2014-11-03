@@ -14,7 +14,7 @@ This guide will explain how run a vagrant image and install Jenkins
 Clone the repo:
 
 ```
-git clone git@github.com:mooreandrew/vagrant-jenkins-example.git
+git clone git@github.com:LR-Training/vagrant-jenkins-example.git
 ```
 
 ### Step 2
